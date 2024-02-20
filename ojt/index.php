@@ -47,7 +47,7 @@
   <header id="header" class="fixed-top d-flex align-items-center header-transparent">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.php">OJTime: OJT-RM</a></h1>
+      <h1 class="logo me-auto"><a href="index.php">OJT PROJECT RECORDS</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.php" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
